@@ -1,0 +1,55 @@
+Kobphong Yusatid
+header{
+background-color: rgb(10, 132, 151);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    gap: 24px;
+}
+.logo-name{
+    display: flex;
+    align-items: center;
+    gap: 8;
+}
+.logo-menu{
+    display: flex;
+    align-items: center;
+    gap: 8;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.btn-primary{
+    background-color: blue;
+    color: #ffffff;
+    padding: 8px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+}
+.btn-secondary{
+    background-color: rgb(255, 255, 255);
+    color: #3932ff;
+    padding: 8px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 1px solid #3932ff;
+}
+
+
+
+footer{
+background-color: rgb(128, 125, 214);
+}
+.container{
+background-color: rgb(78, 1, 151);
+}
